@@ -1,0 +1,4 @@
+<?php
+
+
+new ErrorHandler();

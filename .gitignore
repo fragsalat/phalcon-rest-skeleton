@@ -1,0 +1,8 @@
+.idea
+**/*.iml
+log
+app/library
+phalcon-devtools
+**/*.volt.php
+**/composer.phar
+**/composer.lock
